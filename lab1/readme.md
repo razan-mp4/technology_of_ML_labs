@@ -1,4 +1,4 @@
-# Computer Practicum: Binary Classification with Decision Trees and Random Forests
+# Computer Practicum 1: Binary Classification with Decision Trees and Random Forests
 
 ## Overview
 
