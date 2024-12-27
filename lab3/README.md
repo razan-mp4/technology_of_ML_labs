@@ -81,5 +81,3 @@ The results include:
 This practicum demonstrates the application of NLP techniques to analyze a literary text. The TF-IDF analysis effectively highlights significant words for each chapter, while LDA provides insights into the overarching themes of the text. The combination of preprocessing, feature extraction, and topic modeling showcases the power of NLP for text analysis.
 
 ---
-
-Feel free to adapt this README.md for your repository! Let me know if you'd like any additional details.
